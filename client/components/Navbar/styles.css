@@ -1,0 +1,25 @@
+.navbarBrand {
+    width: 150px !important;
+    text-align: center;
+    font-size: 22px;
+}
+
+.navItem {
+    text-align: center;
+    font-size: 18px;
+}
+
+.navItemLink {
+    color: #f1f1f1 !important;
+}
+
+.navItemLink:hover {
+    color: black !important;
+    background-color: #f1f1f1 !important;
+}
+
+@media (max-width: 760px) {
+    li{
+        width: 100% !important;
+    }
+}

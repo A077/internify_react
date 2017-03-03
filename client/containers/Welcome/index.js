@@ -1,0 +1,1 @@
+export { WelcomeContainer } from './Welcome';

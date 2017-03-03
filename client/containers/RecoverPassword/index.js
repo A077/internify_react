@@ -1,0 +1,1 @@
+export { RecoverPasswordContainer } from './RecoverPassword';

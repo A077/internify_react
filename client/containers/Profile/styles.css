@@ -1,0 +1,27 @@
+.pageIntro {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btnSignUp {
+    height: 3%;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.formContainer {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.formInput {
+    border: 1px solid #525252;
+}
+
+.textarea {
+    max-width: 100%;
+}
+
+.loading {
+    position: fixed;
+    top: 50%;
+    left: 47%;
+}

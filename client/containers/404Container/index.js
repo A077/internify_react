@@ -1,0 +1,1 @@
+export { ErrContainer } from './404';

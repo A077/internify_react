@@ -1,0 +1,14 @@
+.cont {
+    width: 100%;
+    position: absolute;
+    bottom: 100px;
+    text-align: center;
+}
+
+.popup{
+    width: 100%;
+}
+
+.popup div {
+    margin: 0 auto !important;
+}

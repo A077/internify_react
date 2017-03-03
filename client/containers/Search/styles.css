@@ -1,0 +1,104 @@
+h1 {
+   font-size: 2em;
+   color: #f1f1f1;
+   padding-left: 30px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #f1f1f1;
+}
+
+.btnSignUp {
+    width: 20%;
+    height: 3%;
+    font-size: 18px;
+}
+
+.formContainer {
+}
+
+.formInput {
+    border: 1px solid #f1f1f1;
+}
+
+.textarea {
+    max-width: 100%;
+    resize: none;
+    color: #f1f1f1 !important;
+    border: 1px solid #f1f1f1 !important;
+    padding: 10px !important;
+}
+
+.textarea::-webkit-input-placeholder {
+    color: #e1e1e1 !important;
+}
+
+.textarea:-moz-placeholder { /* Firefox 18- */
+    color: #e1e1e1 !important;
+}
+
+.textarea::-moz-placeholder {  /* Firefox 19+ */
+    color: #e1e1e1 !important;
+}
+
+.textarea:-ms-input-placeholder {
+    color: #e1e1e1 !important;
+}
+
+ul {
+    list-style:none;
+}
+
+.filterForm{
+    border-right: 2px inset #f1f1f1 !important;
+    position: inherit !important;
+}
+
+@media (max-width: 991px) {
+    .filterForm{
+        border-right: none !important;
+    }
+
+    .filterComponent {
+        border-bottom: 2px inset #f1f1f1 !important;
+    }
+
+    .textarea {
+        font-size: 0.88em !important;
+    }
+
+    .textarea::-webkit-input-placeholder {
+        color: #e1e1e1 !important;
+    }
+
+    .textarea:-moz-placeholder { /* Firefox 18- */
+        color: #e1e1e1 !important;
+    }
+
+    .textarea::-moz-placeholder {  /* Firefox 19+ */
+        color: #e1e1e1 !important;
+    }
+
+    .textarea:-ms-input-placeholder {
+        color: #e1e1e1 !important;
+    }
+
+}
+
+
+.label {
+    text-align: left !important;
+}
+
+.textNowrap{
+    overflow:hidden;
+}
+
+label{
+    margin-right: 20px;
+}
+
+.btnUpd {
+    margin-left: 20px;
+}
