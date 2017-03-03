@@ -80,7 +80,7 @@ function isSigned(nextState,replace,next) {
 
     if(local)
         if(studentStorage)
-            if(studentStorage.signed==false) {
+            if(studentStorage.signed==true) {
                 replace('/profile');
                 next();
             }
